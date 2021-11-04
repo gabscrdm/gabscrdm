@@ -20,7 +20,7 @@ Eu sou a Gabriela e aqui você encontrará alguns projetos pessoais e atividades
 </div>
   <hr>
  
-  💻 Minhas redes sociais e email:
+  💻 Minhas redes sociais e email:<br><br>
 <div> 
   <a href="https://instagram.com/gabscrdm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/gabizzeira_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
